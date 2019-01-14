@@ -1,0 +1,6 @@
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\bin\Debug\DataSortingAlgorithms.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\bin\Debug\DataSortingAlgorithms.pdb
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\obj\Debug\DataSortingAlgorithms.csprojAssemblyReference.cache
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\obj\Debug\DataSortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\obj\Debug\DataSortingAlgorithms.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\DataSortingAlgorithms\obj\Debug\DataSortingAlgorithms.pdb

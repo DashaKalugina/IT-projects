@@ -1,0 +1,6 @@
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\bin\Debug\Comparators.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\bin\Debug\Comparators.pdb
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\obj\Debug\Comparators.csproj.CoreCompileInputs.cache
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\obj\Debug\Comparators.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\obj\Debug\Comparators.pdb
+D:\4 курс\УЦСБ\DataSortingAlgorithms\Comparators\obj\Debug\Comparators.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\bin\Debug\PersonLibrary.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\bin\Debug\PersonLibrary.pdb
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\obj\Debug\PersonLibrary.csprojAssemblyReference.cache
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\obj\Debug\PersonLibrary.dll
+D:\4 курс\УЦСБ\DataSortingAlgorithms\PersonLibrary\obj\Debug\PersonLibrary.pdb
