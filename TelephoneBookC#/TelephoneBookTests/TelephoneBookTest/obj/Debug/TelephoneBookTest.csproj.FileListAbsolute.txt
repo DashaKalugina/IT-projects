@@ -1,0 +1,12 @@
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\TelephoneBookTest.dll
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\TelephoneBookTest.pdb
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\TelephoneBook.exe
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\TelephoneBook.pdb
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\TelephoneBook.exe.config
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\obj\Debug\TelephoneBookTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\obj\Debug\TelephoneBookTest.dll
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\obj\Debug\TelephoneBookTest.pdb
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\NSubstitute.dll
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBookTest\bin\Debug\NSubstitute.xml

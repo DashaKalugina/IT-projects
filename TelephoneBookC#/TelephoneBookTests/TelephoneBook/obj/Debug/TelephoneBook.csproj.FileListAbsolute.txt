@@ -1,0 +1,6 @@
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\bin\Debug\TelephoneBook.exe.config
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\bin\Debug\TelephoneBook.exe
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\bin\Debug\TelephoneBook.pdb
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\obj\Debug\TelephoneBook.exe
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\obj\Debug\TelephoneBook.pdb
+C:\Users\user\Documents\TelephoneBookTests\TelephoneBook\obj\Debug\TelephoneBook.csprojResolveAssemblyReference.cache
