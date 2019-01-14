@@ -1,0 +1,151 @@
+﻿body {
+    background-color: #1C7430;
+}
+
+.parent {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    font-size: 0;
+    overflow: auto; 
+}
+.parent:before {
+height: 100%;
+display: inline-block;
+vertical-align: middle;
+content: '';
+}
+.startPage, .gamePage, .endPage {
+    display: inline-block;
+    vertical-align: middle;
+}
+.startPic {
+    width: 503px;
+    height: 262px;
+    margin-bottom:20px;
+}
+.titleOfGame {
+    opacity: 0.85;
+    font-family: OpenSans-Bold;
+    font-size: 28px;
+    color: #FFFFFF;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    width: 219px;
+    line-height: 38px;
+
+    margin: 0 auto; 
+}
+.startButton {
+    opacity: 0.85;
+    font-family: OpenSans-Bold;
+    font-size: 16px;
+    color: #1C7430;
+    letter-spacing: 0;
+
+    background: #FFFFFF;
+    border-radius: 4px;
+    width: 104px;
+    height: 22px;
+    padding: 10px 20px;
+    font-weight:bold;
+    text-align:center;
+
+    margin: 34px auto;
+}
+a{
+    text-decoration:none;
+}
+.gamePage {
+    width: 700px;
+}
+.firstRow{
+    position:relative;
+    height:19px;
+}
+.startAgain {
+    opacity: 0.8;
+    font-family: OpenSans-Semibold;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: -0.25px;
+    width:102px;
+    height:19px;
+
+    float:left;
+    margin:0;
+}
+.scoreTitle {
+    opacity: 0.8;
+    font-family: OpenSans-Bold;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    width:44px;
+    height:19px;
+
+    float:right;
+    margin:0;
+}
+.scoreValue {
+    opacity: 0.8;
+    font-family: Krungthep;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    width:10px;
+    height:18px;
+
+    float:right;
+    margin:0 0 0 10px;
+}
+.card {
+    float: left;
+    margin: 18.8px 18.8px 0 0;
+}
+#c0, #c6, #c12{
+    margin-left:0;
+}
+#c5, #c11, #c17{
+    margin-right: 0;
+}
+.card img {
+    width: 101px;
+    height: 138px;
+}
+.endPic {
+    width: 516px;
+    height: 275px;
+    margin-bottom: 9px;
+}
+.endText {
+    opacity: 0.85;
+    font-family: OpenSans-Bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0.15px;
+    line-height: 35px;
+    
+    width: 304px;
+    height: 70px;
+    margin: 0 auto;
+}
+.startAgainButtonEndPage {
+    opacity: 0.85;
+    font-family: OpenSans-Bold;
+    font-size: 16px;
+    color: #1C7430;
+    letter-spacing: 0;
+    background: #FFFFFF;
+    border-radius: 4px;
+    width: 68px;
+    height: 22px;
+    padding: 10px 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px auto;
+}
+

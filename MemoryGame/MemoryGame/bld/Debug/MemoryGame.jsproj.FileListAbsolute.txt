@@ -1,0 +1,17 @@
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\ReverseMap\resources.pri
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\AppxManifest.xml
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\MemoryGame.build.appxrecipe
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\MemoryGame.jsproj.CoreCompileInputs.cache
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\ResourceHandlingTask.state
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\priconfig.xml
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\priconfig.xml.intermediate
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\layout.resfiles
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\layout.resfiles.intermediate
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\resources.resfiles
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\resources.resfiles.intermediate
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\pri.resfiles
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\pri.resfiles.intermediate
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\qualifiers.txt
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\qualifiers.txt.intermediate
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\ProjectArchitectures.txt

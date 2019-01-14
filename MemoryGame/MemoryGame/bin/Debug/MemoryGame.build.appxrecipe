@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>USER</Machine>
+    <WindowsUser>Dasha</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e3bd8ea2-af7b-4c68-840c-bbf5c8cfdce2</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Dasha</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\0C.png">
+      <PackagePath>images\cards\0C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\0D.png">
+      <PackagePath>images\cards\0D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\0H.png">
+      <PackagePath>images\cards\0H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\0S.png">
+      <PackagePath>images\cards\0S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\2C.png">
+      <PackagePath>images\cards\2C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\2D.png">
+      <PackagePath>images\cards\2D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\2H.png">
+      <PackagePath>images\cards\2H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\2S.png">
+      <PackagePath>images\cards\2S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\3C.png">
+      <PackagePath>images\cards\3C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\3D.png">
+      <PackagePath>images\cards\3D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\3H.png">
+      <PackagePath>images\cards\3H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\3S.png">
+      <PackagePath>images\cards\3S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\4C.png">
+      <PackagePath>images\cards\4C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\4D.png">
+      <PackagePath>images\cards\4D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\4H.png">
+      <PackagePath>images\cards\4H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\4S.png">
+      <PackagePath>images\cards\4S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\5C.png">
+      <PackagePath>images\cards\5C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\5D.png">
+      <PackagePath>images\cards\5D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\5H.png">
+      <PackagePath>images\cards\5H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\5S.png">
+      <PackagePath>images\cards\5S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\6C.png">
+      <PackagePath>images\cards\6C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\6D.png">
+      <PackagePath>images\cards\6D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\6H.png">
+      <PackagePath>images\cards\6H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\6S.png">
+      <PackagePath>images\cards\6S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\7C.png">
+      <PackagePath>images\cards\7C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\7D.png">
+      <PackagePath>images\cards\7D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\7H.png">
+      <PackagePath>images\cards\7H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\7S.png">
+      <PackagePath>images\cards\7S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\8C.png">
+      <PackagePath>images\cards\8C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\8D.png">
+      <PackagePath>images\cards\8D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\8H.png">
+      <PackagePath>images\cards\8H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\8S.png">
+      <PackagePath>images\cards\8S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\9C.png">
+      <PackagePath>images\cards\9C.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\9D.png">
+      <PackagePath>images\cards\9D.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\9H.png">
+      <PackagePath>images\cards\9H.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\9S.png">
+      <PackagePath>images\cards\9S.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\AC.png">
+      <PackagePath>images\cards\AC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\AD.png">
+      <PackagePath>images\cards\AD.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\AH.png">
+      <PackagePath>images\cards\AH.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\AS.png">
+      <PackagePath>images\cards\AS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\JC.png">
+      <PackagePath>images\cards\JC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\JD.png">
+      <PackagePath>images\cards\JD.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\JH.png">
+      <PackagePath>images\cards\JH.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\JS.png">
+      <PackagePath>images\cards\JS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\KC.png">
+      <PackagePath>images\cards\KC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\KD.png">
+      <PackagePath>images\cards\KD.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\KH.png">
+      <PackagePath>images\cards\KH.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\KS.png">
+      <PackagePath>images\cards\KS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\QC.png">
+      <PackagePath>images\cards\QC.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\QD.png">
+      <PackagePath>images\cards\QD.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\QH.png">
+      <PackagePath>images\cards\QH.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\cards\QS.png">
+      <PackagePath>images\cards\QS.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\Group 2.png">
+      <PackagePath>images\Group 2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\shirtCard.png">
+      <PackagePath>images\shirtCard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\StartGame.png">
+      <PackagePath>images\StartGame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\index1.html">
+      <PackagePath>index1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 курс, 6 семестр\СКБ Контур\MemoryGame\MemoryGame\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
