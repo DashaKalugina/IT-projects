@@ -1,0 +1,5 @@
+D:\Даша\MVC\DataCollection\bin\Release\DataCollection.dll
+D:\Даша\MVC\DataCollection\bin\Release\DataCollection.pdb
+D:\Даша\MVC\DataCollection\obj\Release\DataCollection.csprojResolveAssemblyReference.cache
+D:\Даша\MVC\DataCollection\obj\Release\DataCollection.dll
+D:\Даша\MVC\DataCollection\obj\Release\DataCollection.pdb

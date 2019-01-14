@@ -1,0 +1,40 @@
+﻿@model  DataCollection.PersonData
+<h2>
+    Загруженная информация о читателе
+</h2>
+
+<table>
+    <tr>
+        <td> ФИО: </td>
+        <td> @Model.Name </td>
+    </tr>
+    <tr>
+        <td> Дата рождения: </td>
+        <td> @Model.DateOfBirth </td>
+    </tr>
+    <tr>
+        <td> Адрес проживания: </td>
+        <td> @Model.Address </td>
+    </tr>
+    <tr>
+        <td> Группа: </td>
+        <td> @Model.Group </td>
+    </tr>
+    <tr>
+        <td> Номер телефона: </td>
+        <td> @Model.PhoneNumber </td>
+    </tr>
+    <tr>
+        <td> Номер читательского билета:</td>
+        <td> @Model.LibraryCard</td>
+    </tr>
+    <tr>
+        <td> Список книг на руках: </td>
+        <td>
+            @foreach (var book in Model.Books)
+            {
+                @book.ToString()<br />
+            }
+        </td>
+    </tr>
+</table>

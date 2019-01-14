@@ -1,0 +1,12 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "Загрузка информации о читателе";
+}
+<h2>Загрузка информации о читателе. Выберите файл для загрузки</h2>
+@using (Html.BeginForm("UploadFile", "Profiles", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="file" name="file" id="file" /><br><br>
+    <input type="submit" value="Загрузить" />
+    <br><br>
+    @ViewBag.Message
+}

@@ -1,0 +1,48 @@
+﻿@*@model dynamic*@
+@model IEnumerable<MVC.Models.UserProfile>
+
+@{
+    ViewBag.Title = "Домашняя страница";
+}
+
+<h1>Данные о читателях</h1>
+
+@foreach (var a in Model)
+{
+    <table>
+        <tr>
+            <td> ФИО: </td>
+            <td> @a.Name </td>
+        </tr>
+        <tr>
+            <td> Дата рождения: </td>
+            <td> @a.DateOfBirth </td>
+        </tr>
+        <tr>
+            <td> Адрес проживания: </td>
+            <td> @a.Address </td>
+        </tr>
+        <tr>
+            <td> Группа: </td>
+            <td> @a.Group </td>
+        </tr>
+        <tr>
+            <td> Номер телефона: </td>
+            <td> @a.PhoneNumber </td>
+        </tr>
+        <tr>
+            <td> Номер читательского билета:</td>
+            <td> @a.LibraryCard</td>
+        </tr>
+        <tr>
+            <td> Список книг на руках: </td>
+            <td>
+                @foreach (var book in a.Books)
+                {
+                    @book.ToString()<br />
+                }
+            </td>
+        </tr>
+    </table>
+    @Html.ActionLink("Скачать в EXCEL", "Download", "Profiles", new { resourceId = a.Id }, null)
+}
